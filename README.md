@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Connect 4 game w. AI 
 
 This project was done together with
 1. Chew You Chun 
